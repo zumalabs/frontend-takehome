@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.DS_Store
+coverage/
+*.tsbuildinfo
+
+# This folder contains the private answer key and must never be published with
+# the candidate starter repository.
+reviewer-pack/
